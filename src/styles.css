@@ -1,0 +1,49 @@
+body {
+  background-color: #2b3035;
+  height: 100vh;
+}
+
+#root {
+  height: 100vh;
+}
+
+.card-footer {
+  color: grey !important;
+}
+
+.card-image {
+  object-fit: cover !important;
+  height: 100%;
+  width: 100%;
+}
+
+.list-group-item-dark {
+  background-color: #2b3035;
+  color: white;
+  border: #888 1px solid;
+}
+
+.list-group-item-dark:hover {
+  transition-duration: 0.2s;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #2b3035;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 25px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

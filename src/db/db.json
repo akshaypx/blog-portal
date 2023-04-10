@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post First",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam fuga cupiditate asperiores et beatae, eligendi facere, odit nostrum porro magnam laborum possimus ipsum itaque corporis voluptas facilis assumenda quis ut quo. Tempore ea sunt deserunt placeat nihil expedita recusandae mollitia quasi nostrum beatae, adipisci officiis veritatis eveniet corporis iste natus repellendus ducimus aliquid aut asperiores dolorum! Dolorum optio in distinctio, eaque itaque beatae rem omnis similique amet voluptatum quas quod corporis eveniet minima, earum provident, ut nesciunt iure aliquam doloremque eum dolorem veritatis quasi. Sed voluptatum architecto totam, commodi minus ducimus quasi fugiat nisi consequatur fugit possimus doloremque aliquid consectetur quo aliquam tenetur eligendi dolorem iusto unde ratione debitis, maxime asperiores! Doloribus dolorum fugit ipsam quidem id officiis non, minima nam, maxime cumque culpa placeat, eaque iusto praesentium dolores accusantium ipsum nemo odit mollitia voluptas earum qui? Deserunt autem quia laboriosam veritatis odit officiis consectetur. Repellat officiis temporibus placeat maxime architecto exercitationem molestiae asperiores consequuntur nam commodi? Iste obcaecati amet necessitatibus illum possimus sequi provident voluptatem nisi vitae ad suscipit deleniti, quod accusamus aliquam quisquam tempore omnis impedit commodi minima facere sint animi facilis. Eius voluptas provident voluptates. Recusandae aspernatur quasi hic repellat deserunt ut, nostrum nulla error itaque. Inventore?",
+      "imgUrl": "https://images.unsplash.com/photo-1680888542878-c727d41e2053?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+      "author": "Akshay Srivastava",
+      "dateTime": "08 Mar 23 1536"
+    },
+    {
+      "id": 2,
+      "title": "Post Second",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam fuga cupiditate asperiores et beatae, eligendi facere, odit nostrum porro magnam laborum possimus ipsum itaque corporis voluptas facilis assumenda quis ut quo. Tempore ea sunt deserunt placeat nihil expedita recusandae mollitia quasi nostrum beatae, adipisci officiis veritatis eveniet corporis iste natus repellendus ducimus aliquid aut asperiores dolorum! Dolorum optio in distinctio, eaque itaque beatae rem omnis similique amet voluptatum quas quod corporis eveniet minima, earum provident, ut nesciunt iure aliquam doloremque eum dolorem veritatis quasi. Sed voluptatum architecto totam, commodi minus ducimus quasi fugiat nisi consequatur fugit possimus doloremque aliquid consectetur quo aliquam tenetur eligendi dolorem iusto unde ratione debitis, maxime asperiores! Doloribus dolorum fugit ipsam quidem id officiis non, minima nam, maxime cumque culpa placeat, eaque iusto praesentium dolores accusantium ipsum nemo odit mollitia voluptas earum qui? Deserunt autem quia laboriosam veritatis odit officiis consectetur. Repellat officiis temporibus placeat maxime architecto exercitationem molestiae asperiores consequuntur nam commodi? Iste obcaecati amet necessitatibus illum possimus sequi provident voluptatem nisi vitae ad suscipit deleniti, quod accusamus aliquam quisquam tempore omnis impedit commodi minima facere sint animi facilis. Eius voluptas provident voluptates. Recusandae aspernatur quasi hic repellat deserunt ut, nostrum nulla error itaque. Inventore?",
+      "imgUrl": "",
+      "author": "Akshay Srivastava",
+      "dateTime": "08 Mar 23 1536"
+    },
+    {
+      "id": 3,
+      "title": "Post Third",
+      "desc": "Post Third Description",
+      "imgUrl": "",
+      "author": "Akshay Srivastava",
+      "dateTime": "08 Mar 23 1536"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "akshay@mod.com",
+      "name": "Akshay Srivastava",
+      "role": "Mod",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "anurag@admin.com",
+      "name": "Anurag Chettri",
+      "role": "Mod",
+      "password": "123456"
+    },
+    {
+      "email": "a@a.com",
+      "name": "a",
+      "role": "user",
+      "password": "a",
+      "id": 3
+    },
+    {
+      "email": "admin@app.com",
+      "password": "123456",
+      "name": "Admin",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "abc@abc.com",
+      "password": "abc",
+      "name": "abc",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "b@b.c",
+      "password": "b",
+      "name": "b",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "d@d.c",
+      "password": "d",
+      "name": "d",
+      "role": "user",
+      "id": 7
+    }
+  ]
+}
