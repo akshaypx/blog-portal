@@ -1,7 +1,7 @@
 
 # Blog Portal
 
-A blog app with authentication, authorization, admin actions and master portal, using react, typescript, json-server for api, routing.
+A blog app with authentication, authorization, admin actions and master portal, using react, typescript, zustand, json-server for api, routing.
 
 
 
